@@ -1,0 +1,16 @@
+C:\Users\zidar\source\repos\testTehnicUFM\testTehnicUFM\bin\Debug\net5.0\testTehnicUMT.exe
+C:\Users\zidar\source\repos\testTehnicUFM\testTehnicUFM\bin\Debug\net5.0\testTehnicUMT.deps.json
+C:\Users\zidar\source\repos\testTehnicUFM\testTehnicUFM\bin\Debug\net5.0\testTehnicUMT.runtimeconfig.json
+C:\Users\zidar\source\repos\testTehnicUFM\testTehnicUFM\bin\Debug\net5.0\testTehnicUMT.runtimeconfig.dev.json
+C:\Users\zidar\source\repos\testTehnicUFM\testTehnicUFM\bin\Debug\net5.0\testTehnicUMT.dll
+C:\Users\zidar\source\repos\testTehnicUFM\testTehnicUFM\bin\Debug\net5.0\testTehnicUMT.pdb
+C:\Users\zidar\source\repos\testTehnicUFM\testTehnicUFM\obj\Debug\net5.0\testTehnicUMT.csproj.AssemblyReference.cache
+C:\Users\zidar\source\repos\testTehnicUFM\testTehnicUFM\obj\Debug\net5.0\testTehnicUMT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zidar\source\repos\testTehnicUFM\testTehnicUFM\obj\Debug\net5.0\testTehnicUMT.AssemblyInfoInputs.cache
+C:\Users\zidar\source\repos\testTehnicUFM\testTehnicUFM\obj\Debug\net5.0\testTehnicUMT.AssemblyInfo.cs
+C:\Users\zidar\source\repos\testTehnicUFM\testTehnicUFM\obj\Debug\net5.0\testTehnicUMT.csproj.CoreCompileInputs.cache
+C:\Users\zidar\source\repos\testTehnicUFM\testTehnicUFM\obj\Debug\net5.0\testTehnicUMT.dll
+C:\Users\zidar\source\repos\testTehnicUFM\testTehnicUFM\obj\Debug\net5.0\refint\testTehnicUMT.dll
+C:\Users\zidar\source\repos\testTehnicUFM\testTehnicUFM\obj\Debug\net5.0\testTehnicUMT.pdb
+C:\Users\zidar\source\repos\testTehnicUFM\testTehnicUFM\obj\Debug\net5.0\testTehnicUMT.genruntimeconfig.cache
+C:\Users\zidar\source\repos\testTehnicUFM\testTehnicUFM\obj\Debug\net5.0\ref\testTehnicUMT.dll
